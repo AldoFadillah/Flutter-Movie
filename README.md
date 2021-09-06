@@ -1,5 +1,8 @@
 A new Flutter project.
 
+![Movies (1)](https://user-images.githubusercontent.com/46714524/132189829-afc044a9-4500-47e3-a490-a9e81af4ec45.png)
+![Movie Details](https://user-images.githubusercontent.com/46714524/132189811-48f9dd9c-c73a-4549-a330-1f34cb4934f4.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
