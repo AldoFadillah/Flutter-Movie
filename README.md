@@ -1,5 +1,3 @@
-# bwa_flutix
-
 A new Flutter project.
 
 ## Getting Started
